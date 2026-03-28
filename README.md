@@ -10,7 +10,6 @@ This project is a Machine Learning-based Disease Prediction System developed as 
 |Course Code|CSA2001|
 |Course Name|Fundamentals of AI and ML|
 |University|VIT Bhopal University|
-|Complexity Level|Moderate (First Year Project)|
 |Language|Python 3.x|
 |Interface|Tkinter Desktop GUI (built into Python)|
 |Total Diseases|13 Diseases|
